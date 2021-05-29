@@ -1,1 +1,13 @@
+site:
+  name: Jâmi'u Jawâmi'u
+  description: Diamiu app support page
+  keywords: diamiu,jamihu,baye niass,cheikh ibrahim inyass,diamihou baye niass,diwani
 
+main:
+  welcomeSection:
+    heading: Welcome to the Diamiu app support page!
+    headingContent: This application is a collection of poems by the great Sufi master Sheikh Ibrahim Niass entitled Jâmi'u Jawâmi'u. It was developed in order to allow all lovers of the master's poems to be able to access his writings.
+    aboutTitle: About the app
+    aboutContent: This application, already present on the “Play store” for the Education category, is full of features such as reading poems, text search (and voice search in particular in a future version), a selection of favorite poems, a long press on a verse for share on social networks, copy or report any error by email. The application is completely free and does not contain in-app purchases and / or subscriptions. It is available in 3 languages: French (main), Arabic and English. It is available to all users with an IOS type smartphone with a version greater than or equal to 10 and in all countries.
+    helpOrContactTitle: Help or Contact
+    helpOrContactContent: You need special help, questions to ask, contact us:
