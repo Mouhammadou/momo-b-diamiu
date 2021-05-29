@@ -1,4 +1,4 @@
-[[https://github.com/Mouhammadou/diamiu/blob/main/assets/images/icon.png|alt=diamiu app icon]]
+![alt diamiu app icon]https://github.com/Mouhammadou/diamiu/blob/main/assets/images/icon.png?raw=true)
 
 ## Bienvenue sur la page d'assistance de l'application Diamiu
 Cette application est un recueil de poèmes du grand maître Soufi Cheikh Ibrahim Niass intitulé Jâmi'u Jawâmi'u.
