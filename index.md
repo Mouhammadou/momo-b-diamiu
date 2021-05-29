@@ -1,3 +1,5 @@
+[[https://github.com/Mouhammadou/diamiu/blob/main/assets/images/icon.png|alt=diamiu app icon]]
+
 ## Bienvenue sur la page d'assistance de l'application Diamiu
 Cette application est un recueil de poèmes du grand maître Soufi Cheikh Ibrahim Niass intitulé Jâmi'u Jawâmi'u.
 Elle a été développée afin de permettre à tous les amoureux des poèmes du maître de pouvoir accéder à ses écrits.
